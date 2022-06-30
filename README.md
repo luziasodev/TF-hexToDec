@@ -1,2 +1,2 @@
 # TF-hexToDec
-An application challenge
+Tech Fellow challenge which needs to convert hexdecimal numbers into decimal ones.
